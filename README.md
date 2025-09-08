@@ -28,8 +28,9 @@ Alunos sejam bem vindos !
   
 </div>
 
-<div style="align: center">
+<div style="display: inline_block"><br>
   
 <img alt="Thiago-gif-python" height="300" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*JyA8glLjg9sxRhon0wC_UQ.gif" />
-  
+<img width="400px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AraujoTrader&layout=compact&hide_border=true&title_color=6474B9&text_color=937CD5&bg_color=0a0c10&thme=transparent" />
+
 </div>
