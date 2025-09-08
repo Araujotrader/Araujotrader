@@ -33,5 +33,7 @@ Alunos sejam bem vindos !
 </div>
 
 <div>
-  <img align="center" alt="Thiago-python-gif" height="200" width="400" src="https://drive.google.com/file/d/1v9orxEYsyWl-1RVZ37ItJo5j4uGoLxMF/view" />
+  
+  [Gif Python](https://miro.medium.com/v2/resize:fit:720/format:webp/1*JyA8glLjg9sxRhon0wC_UQ.gif)
+  
 </div>
