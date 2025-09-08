@@ -31,3 +31,7 @@ Alunos sejam bem vindos !
   <a href="https://www.linkedin.com/in/thiago-araujo-6a9957118/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<div>
+  <img align="center" alt="Thiago-python-gif" height="200" width="400"src="https://drive.google.com/file/d/1v9orxEYsyWl-1RVZ37ItJo5j4uGoLxMF/view?usp=sharing" />
+</div>
