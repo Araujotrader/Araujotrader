@@ -28,8 +28,8 @@ Alunos sejam bem vindos !
   
 </div>
 
-<div style="text-align: center">
+<div style="align: center">
   
-<img align="center" alt="Thiago-gif-python" height="300" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*JyA8glLjg9sxRhon0wC_UQ.gif" />
+<img alt="Thiago-gif-python" height="300" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*JyA8glLjg9sxRhon0wC_UQ.gif" />
   
 </div>
