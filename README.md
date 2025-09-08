@@ -13,11 +13,7 @@ Alunos sejam bem vindos !
   <img align="center" alt="Thiago-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/woocommerce/woocommerce-original.svg" />  
   <img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-                   
-          
-                  
+  <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">              
           
 
 </div>
@@ -32,7 +28,7 @@ Alunos sejam bem vindos !
   
 </div>
 
-<div>
+<div style="text-align: center">
   
 <img align="center" alt="Thiago-gif-python" height="300" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*JyA8glLjg9sxRhon0wC_UQ.gif" />
   
